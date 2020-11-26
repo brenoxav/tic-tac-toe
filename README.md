@@ -54,6 +54,25 @@ The player who succeeds in placing three of their marks in a horizontal, vertica
 5. The players continue making movements until one of them get three of their marks in a horizontal, vertical, or diagonal row;
 6. If no player gets three of their marks in a row after all the board's spots are marked, the game ends in a draw.
 
+
+### Testing methods
+
+![Screenshot of testing](capture.png)
+
+For testing please escute the next steps:
+
+- Execute the following code on the terminal to get the Gems needed:
+
+```
+bundle install
+```
+
+- Run the test with the following command:
+
+```
+rspec
+```
+
 ## Authors
 
 👨‍💻 **Elbert Corniell**
